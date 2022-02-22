@@ -1,0 +1,2 @@
+# resource
+store avaliable resources
